@@ -1,0 +1,15 @@
+#html , #htmltags , #pageLoader , #css , #css3 , #cssloader , #html5 , #htmlbasics , #cssbasics  , #htmlpageloader , #csspageloader
+
+Title : Page Loader using HTML, CSS
+
+Description : A page loader is a web page component that provides a loading page overlay when you press a link or button. You can 
+add different types of page loaders like spinners, loading bars, and hourglass animations.
+
+File structure : 
+1. LodingPage.html
+2. LodingPage.css
+
+Source Code: https://github.com/Bhuvanagsp2/LoadingPage.git
+Click the above link to copy the coding.
+
+YouTube : https://www.youtube.com/channel/UCVb7luKMbAeBI8kO6JG2Eig
